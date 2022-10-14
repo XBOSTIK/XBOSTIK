@@ -12,4 +12,4 @@ Hi, I`m Veronika👋<br>🤖 I'm Trainee / Junior Frontend Developer.<br>🕵️
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XBOSTIK&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XBOSTIK&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[![codewars](https://www.codewars.com/users/XBO_OSTIK/badges/large)]
+![codewars](https://www.codewars.com/users/XBO_OSTIK/badges/large)
